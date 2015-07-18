@@ -9,7 +9,7 @@ img {
 </head>
 <body>
 
-<img src="wordcloud.png" alt="word connections" style="width:510px;height:373px;">
+<img src="wordcloud.png" alt="word connections" style="width:700px;height:700px;">
 <img src="graph_network_beckham_highlight.png" alt="word connections" style="width:600px;height:600px;">
 
 
